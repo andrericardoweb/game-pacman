@@ -9,6 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  bonfire: ^2.7.3
 
 dev_dependencies:
   flutter_test:
